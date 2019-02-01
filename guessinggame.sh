@@ -1,4 +1,3 @@
-
 #"ls" lists all the files in the directory, "wc -l" counts them.
 amount=$( ls | wc -l )
 
