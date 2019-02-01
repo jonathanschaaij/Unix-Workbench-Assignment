@@ -1,6 +1,6 @@
 rm RREADME.md:
 	touch README.md
-	echo "#Unix Workbench Assignment" > README.md
+	echo "## Unix Workbench Assignment" > README.md
 	echo "" >> README.md
 	echo "This repository is the Assignment for the Unix Workbench course at Coursera." >> README.md
 	echo "" >> README.md
